@@ -31,13 +31,7 @@ Hi, I'm Mohammad Sharfuddin, Computer Engineer & Software Developer from Banglad
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman1211&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arman1211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -57,20 +51,20 @@ Hi, I'm Mohammad Sharfuddin, Computer Engineer & Software Developer from Banglad
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/arman1211/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/arman1211/City-Corporation-backend" title="City-Corporation-backend">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=City-Corporation-backend&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/arman1211/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/arman1211/Vaccination-Management-Backend-DRF" title="Vaccination-Management-Backend-DRF">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=Vaccination-Management-Backend-DRF&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/arman1211/Bank-Management-OOP" title="Bank Management OOP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=Bank-Management-OOP&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/arman1211/Hospital-Management-Backend" title="Hospital-Management-Backend">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=Hospital-Management-Backend&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/arman1211/City-Corporation-Citizen-Portal" title="City Corporation Citizen Portal">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=City-Corporation-Citizen-Portal&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/arman1211/Library-management-system" title="Library-management-system">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arman1211&repo=Library-management-system&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
