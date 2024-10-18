@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sharfuddin....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<div align="center">
+  <img src="images/cover" alt="Cover Image" width="100%"/>
+</div>
 
 <div  style="display: flex; justify-content: space-between;">
   <div width='50%'>
