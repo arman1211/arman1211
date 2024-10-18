@@ -9,8 +9,8 @@
   <img src="images/cover.png" alt="Cover Image" width="100%"/>
 </div>
 
-<div  style="display: flex; justify-content: space-between;">
-  <div width='50%'>
+
+  <div align='left'>
     <h2>💫 About Me:</h2>
     <p>
      Hi, I'm <b>Mohammad Sharfuddin</b>, a passionate Computer Engineer & Software Developer from Bangladesh. I thrive on solving complex problems and leveraging technology to create meaningful solutions that make an impact on people's lives.<br><br>
@@ -27,10 +27,7 @@
     </p>
   </div>
 
-<div align="center">
-  <img src="images/profile.png" alt="Profile Image" width="300"/>
-</div>
-</div>
+
 
 
 
