@@ -6,7 +6,7 @@
   </a>
 </h1>
 <div align="center">
-  <img src="images/cover" alt="Cover Image" width="100%"/>
+  <img src="images/cover.png" alt="Cover Image" width="100%"/>
 </div>
 
 <div  style="display: flex; justify-content: space-between;">
