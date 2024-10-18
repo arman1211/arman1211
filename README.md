@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; text-align: left;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; text-align: left;">
     <h2>💫 About Me:</h2>
     <p>
       Hi, I'm <b>Mohammad Sharfuddin</b>, Computer Engineer & Software Developer from Bangladesh<br><br>
@@ -21,9 +21,10 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="images/profile.png" alt="Profile Image" width="250" />
+    <img src="images/profile.png" alt="Profile Image" width="250" style="border-radius: 50%;"/>
   </div>
 </div>
+
 
 
 
