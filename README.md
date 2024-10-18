@@ -6,8 +6,24 @@
   </a>
 </h1>
 
-# 💫 About Me:
-Hi, I'm Mohammad Sharfuddin, Computer Engineer & Software Developer from Bangladesh<br><br>🔬 I'm currently studying for my Master Degree...<br>🎓 I graduated from University of Chittagong, Department of Computer Science and Engineering (Bachelor)<br>🎓 I graduated from Hathazari College, Department of Science (HSC)<br>🎓 I graduated from Katirhat High School (SSC)<br>💻 I love writing code and learning anything about it<br>📚 I’m currently learning how to build Website with Django<br><br>📫 How to reach me: sharfuddinarman512@gmail.com
+<div align="left">
+  <h2>💫 About Me:</h2>
+  <p>
+    Hi, I'm <b>Mohammad Sharfuddin</b>, Computer Engineer & Software Developer from Bangladesh<br><br>
+    🔬 I'm currently studying for my Master's Degree...<br>
+    🎓 I graduated from <b>University of Chittagong</b>, Department of Computer Science and Engineering (Bachelor)<br>
+    🎓 I graduated from <b>Hathazari College</b>, Department of Science (HSC)<br>
+    🎓 I graduated from <b>Katirhat High School</b> (SSC)<br>
+    💻 I love writing code and learning anything about it<br>
+    📚 I’m currently learning how to build Websites with Django<br><br>
+    📫 How to reach me: <a href="mailto:sharfuddinarman512@gmail.com">sharfuddinarman512@gmail.com</a>
+  </p>
+</div>
+
+<div align="right">
+  <img src="images/profile.png" alt="Profile Image" width="300"/>
+</div>
+
 
 
 ## 🌐 Socials:
