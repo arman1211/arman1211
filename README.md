@@ -10,14 +10,17 @@
   <div width='50%'>
     <h2>💫 About Me:</h2>
     <p>
-      Hi, I'm <b>Mohammad Sharfuddin</b>, Computer Engineer & Software Developer from Bangladesh<br><br>
-      🔬 I'm currently studying for my Master's Degree...<br>
-      🎓 I graduated from <b>University of Chittagong</b>, Department of Computer Science and Engineering (Bachelor)<br>
-      🎓 I graduated from <b>Hathazari College</b>, Department of Science (HSC)<br>
-      🎓 I graduated from <b>Katirhat High School</b> (SSC)<br>
-      💻 I love writing code and learning anything about it<br>
-      📚 I’m currently learning how to build Websites with Django<br><br>
-      📫 How to reach me: <a href="mailto:sharfuddinarman512@gmail.com">sharfuddinarman512@gmail.com</a>
+     Hi, I'm <b>Mohammad Sharfuddin</b>, a passionate Computer Engineer & Software Developer from Bangladesh. I thrive on solving complex problems and leveraging technology to create meaningful solutions that make an impact on people's lives.<br><br>
+
+  🔬 I'm currently pursuing my Master's Degree, further expanding my knowledge and expertise in computer science and software development.<br>
+  🎓 I hold a Bachelor's degree in Computer Science and Engineering from <b>University of Chittagong</b>, where I developed a deep understanding of software architecture, algorithms, and system design.<br>
+  🎓 I also completed my Higher Secondary Certificate (HSC) from <b>Hathazari College</b>, and my Secondary School Certificate (SSC) from <b>Katirhat High School</b>.<br><br>
+  
+  💻 I have a strong passion for coding and learning new technologies. With expertise in Python, Django, ReactJS, and data structures, I constantly push myself to learn and grow as a developer.<br>
+  🌟 My vision is to develop innovative software that bridges the gap between people and technology, creating efficient and user-friendly applications that can drive positive change.<br>
+  📚 Currently, I am focusing on building full-stack applications using Django and React, and continually expanding my knowledge in web development.<br><br>
+  
+  📫 How to reach me: <a href="mailto:sharfuddinarman512@gmail.com">sharfuddinarman512@gmail.com</a>
     </p>
   </div>
 
